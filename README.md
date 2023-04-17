@@ -7,6 +7,7 @@
  _Контакты_: **mgangart@gmail.ru**
 
  _Образование_ : <image src="https://sun9-43.userapi.com/impf/c625223/v625223231/2bcb7/RmAwLSeInxU.jpg?size=604x427&quality=96&sign=841b3bb260de4d0fccc42df00868e5c1&type=album">
+
  ## Cопроводительное письмо
 
  Добрый день! В связи с решением о смене деятельности меня заинтересовала Ваша вакансия Тестировщик .
